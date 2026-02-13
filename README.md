@@ -2,9 +2,6 @@
 
 Este proyecto fue desarrollado como parte del trabajo final para un curso avanzado de HTML y CSS. Es un prototipo funcional de un e-commerce de librería que cumple con los requisitos solicitados.
 
-## Demo en vivo
-[Visita la página aquí](https://eros-libreria.vercel.app/)
-
 ## Tecnologías utilizadas
 - HTML
 - CSS
